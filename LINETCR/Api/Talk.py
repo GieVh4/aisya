@@ -21,7 +21,7 @@ class Talk:
   port = 443;
 
   UA = "Line/2018.07421.2455.Tanduri/760.1.6 WIN10/18.2.1"
-  LA = "DESKTOPMAC	8.3.2	HELLO-WORLD	12.1.1"
+  LA = "CHROMEOS	8.3.2	HELLO-WORLD	12.1.1"
 
   authToken = None
   cert = None
